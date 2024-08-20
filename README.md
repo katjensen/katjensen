@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Kat 👋
+
+I'm a data scientist who specializes working with satellite imagery
+
+- 🏢 Currently working as a Senior Data Scientist at the Finnish company ICEYE
+- 🔭 Professional interests: the intersection of Machine Learning, Remote Sensing, and Natural Hazards
+- ⚙️ Daily drivers: Python, AWS, QGIS, Sklearn + PyTorch, Google Earth Engine
+- ⌨️ Previous experience: R, MATLAB, Fortan, Javascript
+- 🌱 Learning about: Self-supervised learning, TinyML
+- 💬 Ask me about: remote sensing, geospatial data science, wetlands and flood mapping
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/katmjensen)  [Website](www.katjensen.me)
+- ⚡️ Fun facts: I love hiking and trail running, baking, and trying to teach my dog new tricks 🐶
 
 <!--
 **katjensen/katjensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
